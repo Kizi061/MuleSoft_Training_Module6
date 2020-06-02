@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "apalikhe@njclabs.com"
+  password: "Graduate#2020"
+  token: "hRZGGQRJM4SG7rZTzzmlZsBU"
